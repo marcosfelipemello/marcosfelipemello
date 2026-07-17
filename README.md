@@ -1,20 +1,34 @@
-# Opa! Eu sou o Marcos Felipe Mello! 👋
+# Opa! tudo bem? Sou o Marcos Felipe Mello! 👋
 
-Sou um entusiasta de tecnologia focado em desenvolvimento front-end. Atualmente, estou imerso no aprendizado dos fundamentos do desenvolvimento web, construindo interfaces modernas, funcionais e explorando o potencial de ferramentas inteligentes para otimizar meu fluxo de trabalho de programação.
+Sou um desenvolvedor front-end focado em criar interfaces modernas e integrá-las a ecossistemas eficientes de backend e infraestrutura. Adoto uma abordagem contemporânea de desenvolvimento, utilizando **Inteligência Artificial avançada via terminal (AI-Assisted Development)** para otimizar meu fluxo de trabalho, acelerar entregas e arquitetar soluções de código estáveis.
 
 Fora das linhas de código, sou apaixonado por música (toco guitarra) e praticante de Muay Thai, sempre buscando evolução contínua em tudo o que faço.
 
 ## 🚀 Sobre Mim
-- ⚡ Focado no domínio de **JavaScript**, **HTML5** e **CSS3**.
-- 🛠️ Construindo projetos práticos para consolidar conceitos de lógica, estruturação e estilização.
-- 🎓 Buscando constantemente novos desafios e evolução no ecossistema de tecnologia.
+- ⚡ Focado no domínio de **JavaScript**, **HTML5** e **CSS3** para o ecossistema Front-End.
+- 🗄️ Experiência em integração com **Supabase** (Backend-as-a-Service) e APIs de comunicação como **EvolutionGo**.
+- 🌐 Gerenciamento de deploy e servidores utilizando **Vercel** e infraestrutura em **VPS Contabo**.
+- 🤖 Pratico o desenvolvimento assistido por IA via CLI, utilizando engenharia de prompt para traduzir regras de negócio em arquiteturas funcionais.
 
 ## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Front-End & Versionamento
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### ⚙️ Backend & Infraestrutura
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Contabo VPS](https://img.shields.io/badge/Contabo%20VPS-%230051A0.svg?style=for-the-badge)
+![EvolutionGo](https://img.shields.io/badge/EvolutionGo-%2300C853.svg?style=for-the-badge)
+
+### 🤖 IA & Produtividade
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97752?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge&logo=cognitive&logoColor=white)
+![AI Assisted Development](https://img.shields.io/badge/AI%20Assisted-Otimização-purple?style=for-the-badge)
 
 ## 📁 Projetos em Destaque
 
