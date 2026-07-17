@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcos Felipe! 👋
+# Opa! Sou o Marcos Felipe Mello! 👋
 
 Sou um desenvolvedor front-end focado em criar interfaces modernas e integrá-las a ecossistemas eficientes de backend e infraestrutura. Adoto uma abordagem contemporânea de desenvolvimento, utilizando **Inteligência Artificial avançada via terminal (AI-Assisted Development)** para otimizar meu fluxo de trabalho, acelerar entregas e arquitetar soluções de código estáveis.
 
@@ -38,18 +38,10 @@ Fora das linhas de código, sou apaixonado por música (toco guitarra) e pratica
 ## 📫 Vamos nos conectar?
 Fique à vontade para acompanhar meus projetos ou entrar em contato:
 
-<a href="https://portfolio.kryventech.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Meu%20Portfólio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meu Portfólio" />
-</a>
-<a href="https://www.linkedin.com/in/marcosfelipemello" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/marcosfelipe.mello" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:marcosfelipe@kryventech.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![Meu Portfólio](https://img.shields.io/badge/Meu%20Portfólio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.kryventech.com.br)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosfelipemello)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcosfelipe.mello)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosfelipe@kryventech.com.br)
 
 ---
 _“A evolução é um processo diário.”_ 🚀
