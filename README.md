@@ -32,8 +32,11 @@ Fora das linhas de código, sou apaixonado por música (toco guitarra) e pratica
 
 ## 📁 Projetos em Destaque
 
-- **🌍 Site + CRM - Foco em Rotas (Agência de Viagens ✈):** Sistema integrado que une site, CRM de rotas e call center via WhatsApp. Desenvolvido para potencializar vendas e o atendimento ao cliente, permitindo gerenciar leads, personalizar roteiros turísticos e centralizar a comunicação de forma ágil. https://foco-em-rotas.vercel.app/
-- **🧬 Registrador de Macros, Micros e GLP-1:** Sistema completo focado em monitoramento metabólico. A plataforma integra dados de bioimpedância, análise de rótulos nutricionais, prescrições médicas e gráficos de evolução clínica para um acompanhamento preciso. https://registreat.vercel.app/
+- **🌍 Site + CRM - Foco em Rotas (Agência de Viagens ✈):** Sistema integrado que une site, CRM de rotas e call center via WhatsApp. Desenvolvido para potencializar vendas e o atendimento ao cliente, permitindo gerenciar leads, personalizar roteiros turísticos e centralizar a comunicação de forma ágil.  
+[https://foco-em-rotas.vercel.app/](https://foco-em-rotas.vercel.app/)
+
+- **🧬 Registrador de Macros, Micros e GLP-1:** Sistema completo focado em monitoramento metabólico. A plataforma integra dados de bioimpedância, análise de rótulos nutricionais, prescrições médicas e gráficos de evolução clínica para um acompanhamento preciso.  
+[https://registreat.vercel.app/](https://registreat.vercel.app/)
 
 ## 📫 Vamos nos conectar?
 Fique à vontade para acompanhar meus projetos ou entrar em contato:
